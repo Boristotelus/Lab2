@@ -1,0 +1,8 @@
+﻿  Lab 2.cpp
+E:\VSC\C++\Lab 2\Lab 2.cpp(10,26): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\VSC\C++\Lab 2\Lab 2.cpp(17,26): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\VSC\C++\Lab 2\Lab 2.cpp(17,26): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+E:\VSC\C++\Lab 2\Lab 2.cpp(26,26): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\VSC\C++\Lab 2\Lab 2.cpp(26,26): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+E:\VSC\C++\Lab 2\Lab 2.cpp(44,22): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Lab 2.vcxproj -> E:\VSC\C++\Lab 2\x64\Debug\Lab 2.exe
